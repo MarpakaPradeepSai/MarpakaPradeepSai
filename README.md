@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MarpakaPradeepSai
-- 👀 I’m interested in Data Science, Machine Learning, Artificial Intelligence
+- 👀 I’m interested in Data Science, Machine Learning and Artificial Intelligence
 - 🌱 I’m currently learning Python, R, Tableau, SQL, Spark and Hadoop
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @pradeepbittumin9pm@gmail.com
