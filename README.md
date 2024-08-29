@@ -11,7 +11,13 @@ I’m an enthusiastic Data Scientist and AI aficionado passionate about harnessi
 
 ### 🤖 **Excited About:**
 
-I’m thrilled to work with groundbreaking AI tools like **ChatGPT**, **Gemini**, **Meta AI**, and **Claude AI**. These technologies are at the forefront of my projects, helping me explore new frontiers in AI and machine learning. 🌟🔬
+I’m thrilled to work with groundbreaking AI tools like 
+- **ChatGPT**
+- **Gemini**
+- **Meta AI**
+- **Claude AI**.
+
+These technologies are at the forefront of my projects, helping me explore new frontiers in AI and machine learning. 🌟🔬
 
 ### 🌐 **Looking For:**
 
