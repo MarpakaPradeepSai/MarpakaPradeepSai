@@ -25,4 +25,4 @@ Opportunities to collaborate on innovative, data-driven projects, exchange insig
 
 ### 📬 **Get in Touch:**
 
-Feel free to connect with me at pradeepbittumin9pm@gmail.com for collaboration, discussions, or just to network!
+Feel free to connect with me @pradeepbittumin9pm@gmail.com for collaboration, discussions, or just to network!
