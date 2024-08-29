@@ -1,6 +1,6 @@
 👋 **Hello, I'm [@MarpakaPradeepSai](https://github.com/MarpakaPradeepSai)!**
 
-I’m an enthusiastic **Data Scientist* and AI aficionado passionate about harnessing the power of cutting-edge technologies to tackle real-world problems and drive innovation. 🚀✨
+I’m an enthusiastic **Data Scientist** and **AI** aficionado passionate about harnessing the power of cutting-edge technologies to tackle real-world problems and drive innovation. 🚀✨
 
 ### 🔍 **Currently Diving Into:**
 
