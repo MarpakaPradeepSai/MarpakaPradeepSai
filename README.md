@@ -13,6 +13,7 @@ I’m an enthusiastic **Data Scientist** and **AI** aficionado passionate about 
 
 I’m thrilled to work with groundbreaking AI tools like 
 - **ChatGPT**
+- **DeepSeek**
 - **Gemini**
 - **Meta AI**
 - **Claude AI**.
